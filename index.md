@@ -25,4 +25,8 @@
 
 3) Open the command palette by pressing the *ctrl + shift + p*  key
 
-4) Search up 
+4) Search up *Select Default Profile*. Then Select Git Bash.
+
+5) Once you select Git Bash, wait a few seconds then click on the `+` symbol on the terminal. This is what your terminal should look like ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-13%20140759.png?raw=true)
+
+6) 
