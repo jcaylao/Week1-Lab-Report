@@ -23,4 +23,6 @@
 
 2) Open Visual Studio Code and open the terminal by pressing and holding the `ctrl` + `'`  key
 
-3) Open the command palette by pressing the `ctrl` + `shift` + `p`  key
+3) Open the command palette by pressing the `ctrl` + `shift` + `p`  key. Then type in *Select Default Profile*.
+
+4) 
