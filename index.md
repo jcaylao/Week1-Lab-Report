@@ -13,6 +13,6 @@
 ## **How to Install VScode**
 1) Click on the link to go to the Visual Studio Code download site [Link](https://code.visualstudio.com/Download)
 
-2) Select the correct version for your device ![Image](https://raw.githubusercontent.com/jcaylao/Week1-Lab-Report/main/vscodedownload.PNG)
+2) Select the correct version for your device ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-12%20171359.png?raw=true)
 
 3) Follow the download instructions and then open up the Visual Studio Code app. You should see this on your screen ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-12%20170018.png?raw=true)
