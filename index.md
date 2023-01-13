@@ -21,8 +21,8 @@
 ## **Remotely Connecting**
 1) Install git for Windows [Link](https://git-scm.com/download/win)
 
-2) Open Visual Studio Code and open the terminal by pressing and holding the `ctrl` + `'`  key
+2) Open Visual Studio Code and open the terminal by pressing and holding the `ctrl` and `'`  key. If this shortcut does not work for you, you can manually open a new terminal by following along with the image below ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-12%20174524.png?raw=true)
 
-3) Open the command palette by pressing the `ctrl` + `shift` + `p`  key. Then type in *Select Default Profile*.
+3) Open the command palette by pressing the *ctrl + shift + p*  key
 
-4) 
+4) Search up 
