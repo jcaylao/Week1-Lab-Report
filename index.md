@@ -23,4 +23,4 @@
 
 2) Open Visual Studio Code and open the terminal by pressing and holding the *shift + '* key
 
-3) Open the command palette by pressing the *ctrl + shift + p' key
+3) Open the command palette by pressing the *ctrl + shift + p'* key
