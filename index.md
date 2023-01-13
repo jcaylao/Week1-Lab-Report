@@ -16,3 +16,11 @@
 2) Select the correct version for your device ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-12%20171359.png?raw=true)
 
 3) Follow the download instructions and then open up the Visual Studio Code app. You should see this on your screen ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-12%20170018.png?raw=true)
+
+
+## **Remotely Connecting**
+1) Install git for Windows [Link](https://git-scm.com/download/win)
+
+2) Open Visual Studio Code and open the terminal by pressing and holding the *shift + '* key
+
+3) Open the command palette by pressing the *ctrl + shift + p' key
