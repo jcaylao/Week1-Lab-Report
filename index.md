@@ -15,3 +15,4 @@
 
 2) Select the correct version for your device ![Image](https://raw.githubusercontent.com/jcaylao/Week1-Lab-Report/main/vscodedownload.PNG)
 
+3) Follow the download instructions and then open up the Visual Studio Code app. You should see this on your screen ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-12%20170018.png?raw=true)
