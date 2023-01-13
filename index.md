@@ -21,6 +21,6 @@
 ## **Remotely Connecting**
 1) Install git for Windows [Link](https://git-scm.com/download/win)
 
-2) Open Visual Studio Code and open the terminal by pressing and holding the *shift + ' * key
+2) Open Visual Studio Code and open the terminal by pressing and holding the *shift + '* key
 
 3) Open the command palette by pressing the *ctrl + shift + p* key
