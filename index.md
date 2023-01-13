@@ -29,4 +29,8 @@
 
 5) Once you select Git Bash, wait a few seconds then click on the `+` symbol on the terminal. This is what your terminal should look like ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-13%20140759.png?raw=true)
 
-6) 
+6) Type into the terminal this command: `$ssh (your course specific account)@ieng6.ucsd.edu`
+
+7) When logging into a new server, you will get a verification message that will ask you to type in a response.
+
+8) 
