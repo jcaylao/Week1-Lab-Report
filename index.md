@@ -5,7 +5,9 @@
 
 2) After you input your information, you should see your CSE15L account username.
 
-3) Click on your username and reset your password 
+3) Click on your username and reset your password by clicking on *change your password*, then follow the instructions shown
+
+4) Make sure to write down your username and password somewhere so that you will not forget it.
 
 ## **How to Install VScode**
 1) Click on the link to go to the Visual Studio Code download site [Link](https://code.visualstudio.com/Download)
