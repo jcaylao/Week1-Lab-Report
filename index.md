@@ -40,4 +40,7 @@ If this is what you see then you have successfully connected to the server!
 
 
 ## **Try Some Commands**
-
+Now that you have connected remotely, you can now put in commands. Here are some that you can try:
+`cd ~`
+`cd`
+`ls -a`
