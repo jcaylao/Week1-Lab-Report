@@ -57,4 +57,4 @@ Here are some example outputs: ![Image](https://user-images.githubusercontent.co
 
 
 ## **Logging out**
-To log out of the remote server, press `ctrl` + `-` + `D` then type *exit*
+To log out of the remote server, press `ctrl` + `-` + `D` then type *exit*.
