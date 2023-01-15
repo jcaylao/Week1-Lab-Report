@@ -56,3 +56,5 @@ Now that you have connected remotely, you can now put in commands. Here are some
 Here are some example outputs: ![Image](https://user-images.githubusercontent.com/122569462/212506872-da8cffdc-02e6-4771-bd95-44c5291093b1.png)
 
 
+## **Logging out**
+To log out of the remote server, press `ctrl` + `-` + `D` then type *exit*
