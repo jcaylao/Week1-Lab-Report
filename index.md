@@ -53,6 +53,6 @@ Now that you have connected remotely, you can now put in commands. Here are some
 
 `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 
-Here are some example outputs: ![Image](![image](https://user-images.githubusercontent.com/122569462/212506872-da8cffdc-02e6-4771-bd95-44c5291093b1.png)
+Here are some example outputs: ![Image](https://user-images.githubusercontent.com/122569462/212506872-da8cffdc-02e6-4771-bd95-44c5291093b1.png)
 
 
