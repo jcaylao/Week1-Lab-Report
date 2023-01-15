@@ -42,5 +42,17 @@ If this is what you see then you have successfully connected to the server!
 ## **Try Some Commands**
 Now that you have connected remotely, you can now put in commands. Here are some that you can try:
 `cd ~`
+
 `cd`
+
+`ls -lat`
+
 `ls -a`
+
+`cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
+
+`cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
+
+Here are some example outputs: ![Image](![image](https://user-images.githubusercontent.com/122569462/212506872-da8cffdc-02e6-4771-bd95-44c5291093b1.png)
+
+
