@@ -31,6 +31,6 @@
 
 6) Type into the terminal this command: `$ssh (your course specific account)@ieng6.ucsd.edu`
 
-7) When logging into a new server, you will get a verification message that will ask you to type in a response.
+7) When logging into a new server, you will get a verification message that will ask you to type in a response. Type *yes*. This is what you should see on your screen ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-14%20165031.png?raw=true)
 
-8) 
+8) Then it will prompt you to put in your password. When typing, the letters will not appear on the screen but once you press enter this is what you should see ![Image](https://github.com/jcaylao/Week1-Lab-Report/blob/main/Screenshot%202023-01-14%20170415.png?raw=true)
