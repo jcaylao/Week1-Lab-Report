@@ -45,16 +45,22 @@ Now that you have connected remotely, you can now put in commands. Here are some
 
 `cd`
 
+The cd command changes the working directory and I found it interesting that there would be no output displayed, but this meant that the command ran successfully.
+
 `ls -lat`
 
 `ls -a`
+
+The ls command was interesting because I did not know what the command would do, but after inputting it into the terminal I was able to realize that the ls command would show all of the files in the directory in a list.
 
 `cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/`
 
 `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 
-Here are some example outputs: ![Image](https://user-images.githubusercontent.com/122569462/212506872-da8cffdc-02e6-4771-bd95-44c5291093b1.png)
-
+In this step I just inputted some codes into the terminal to see the different outputs each command would do. After inputting each command, I learned about the different outputs and why I should use different ones.
+Here are some example outputs: 
+![Image](https://user-images.githubusercontent.com/122569462/212506872-da8cffdc-02e6-4771-bd95-44c5291093b1.png)
+![Image]((https://user-images.githubusercontent.com/122569462/215378449-2ecfd65c-194a-49cd-9a95-3a2e014f376d.png)
 
 ## **Logging out**
 To log out of the remote server, press `ctrl` + `-` + `D` then type *exit*.
