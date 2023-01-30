@@ -57,10 +57,12 @@ The ls command was interesting because I did not know what the command would do,
 
 `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 
+I found the cp command to be interesting because I thought it was fascinating how I am able to copy a file from a different device without having to physically connect to it.
+
 In this step I just inputted some codes into the terminal to see the different outputs each command would do. After inputting each command, I learned about the different outputs and why I should use different ones.
 Here are some example outputs: 
 ![Image](https://user-images.githubusercontent.com/122569462/212506872-da8cffdc-02e6-4771-bd95-44c5291093b1.png)
-![Image]((https://user-images.githubusercontent.com/122569462/215378449-2ecfd65c-194a-49cd-9a95-3a2e014f376d.png)
+![Image](https://user-images.githubusercontent.com/122569462/215378449-2ecfd65c-194a-49cd-9a95-3a2e014f376d.png)
 
 ## **Logging out**
 To log out of the remote server, press `ctrl` + `-` + `D` then type *exit*.
